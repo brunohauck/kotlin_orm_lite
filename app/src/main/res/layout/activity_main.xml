@@ -16,13 +16,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="loginOnClick"
-            android:text="Login" />
+            android:text="@string/login" />
 
         <Button
             android:id="@+id/buttonCadastro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Cadastro" />
+            android:text="@string/cadastro" />
 
         <Button
             android:id="@+id/buttonTestaBancoJava"

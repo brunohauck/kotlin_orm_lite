@@ -1,5 +1,6 @@
 package com.mentorandroid.loginorm
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.design.widget.FloatingActionButton
 import android.support.design.widget.Snackbar
@@ -71,7 +72,8 @@ class LogadoActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelec
         val id = item.itemId
 
         if (id == R.id.nav_camera) {
-            // Handle the camera action
+            val intent = Intent(this, ListaTodoActivity::class.java)
+            startActivity(intent)
         } else if (id == R.id.nav_gallery) {
 
         } else if (id == R.id.nav_slideshow) {

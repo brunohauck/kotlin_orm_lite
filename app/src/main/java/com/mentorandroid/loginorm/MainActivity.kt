@@ -18,7 +18,6 @@ class MainActivity : AppCompatActivity() {
         buttonCadastro.setOnClickListener{
             val intent = Intent(this, CadastroActivity::class.java)
             startActivity(intent)
-
         }
     }
 

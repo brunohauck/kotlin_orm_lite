@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "497199283181",
+    "firebase_url": "https://login-orm.firebaseio.com",
+    "project_id": "login-orm",
+    "storage_bucket": "login-orm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497199283181:android:ce7dfab23ebd3eb7",
+        "android_client_info": {
+          "package_name": "com.mentorandroid.loginorm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497199283181-a9tk6tfrno0b1t95gs6e645c35sf8tid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xczz1DT3FSUbti2h3vXZApDWDYzWNYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

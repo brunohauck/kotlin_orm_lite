@@ -4,9 +4,10 @@
 
     <string name="action_settings">Settings</string>
 
+
     <string name="password_hint">Password</string>
     <string name="email_hint">Email</string>
-    <string name="sign_up_button_label">Sign Up</string>
+    <string name="sign_up_button_label">Cadastre-se</string>
     <string name="signup_error_message">Please make sure you enter an email address and password!</string>
     <string name="signup_error_title">Error!</string>
     <string name="signup_success">Account successfully created! You can now Login.</string>
@@ -19,8 +20,11 @@
     <string name="action_logout">Logout</string>
     <string name="title_activity_logado">LogadoActivity</string>
 
+
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login">Login</string>
+    <string name="cadastro">Cadastro</string>
 
 
 </resources>
